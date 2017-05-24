@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mountain.state.ent.MountainStateChallangeApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.125 sec - in com.mountain.state.ent.MountainStateChallangeApplicationTests
